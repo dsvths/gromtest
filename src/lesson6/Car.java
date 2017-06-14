@@ -4,6 +4,7 @@ package lesson6;
  * Created by DSV_Discovery on 10.05.2017.
  */
 public class Car {
+    //test git
 
     //1 fields (свойства)
     int price;
